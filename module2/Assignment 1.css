@@ -163,13 +163,13 @@ h4{
 }
 
 #Chicken h4{
-	background-color:#ff8080;
+  background-color: #ff99bb;
 }
 #Beef h4{
-	background-color: #ff6666;
+  background-color: #ff80aa ;
 }
 #Sushi h4{
-	background-color:#ff4d4d;
+  background-color: #ff6699;
 }
 h4:hover{
 	color: black;
